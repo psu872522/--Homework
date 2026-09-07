@@ -2,16 +2,14 @@ public class Homework1 {
     public static void main(String[] args) {
         int i, j;
 
-        // 1. 왼쪽 아래 직각 (아래로 갈수록 늘어남)
         for (i = 0; i < 10; i++) {
             for (j = 0; j < 10; j++) {
                 System.out.print("#");
             }
             System.out.println("");
         }
-        // 참고: 위는 그냥 사각형이라 문제 이미지 모양에 맞춰 아래처럼 수정
 
-        System.out.println("=== 모양1: 왼쪽 아래 직각삼각형 ===");
+        System.out.println;
         for (i = 1; i <= 10; i++) {
             for (j = 1; j <= i; j++) {
                 System.out.print("#");
@@ -19,7 +17,7 @@ public class Homework1 {
             System.out.println("");
         }
 
-        System.out.println("=== 모양2: 오른쪽 아래 직각삼각형 ===");
+        System.out.println;
         for (i = 1; i <= 10; i++) {
             for (j = 10; j > i; j--) {
                 System.out.print(" ");
@@ -30,7 +28,7 @@ public class Homework1 {
             System.out.println("");
         }
 
-        System.out.println("=== 모양3: 왼쪽 위 직각삼각형 ===");
+        System.out.println;
         for (i = 10; i >= 1; i--) {
             for (j = 1; j <= i; j++) {
                 System.out.print("#");
@@ -38,7 +36,7 @@ public class Homework1 {
             System.out.println("");
         }
 
-        System.out.println("=== 모양4: 오른쪽 위 직각삼각형 ===");
+        System.out.println;
         for (i = 10; i >= 1; i--) {
             for (j = 10; j > i; j--) {
                 System.out.print(" ");
