@@ -14,4 +14,4 @@ public class Homework1{
 }
 
 ```
-![](https://github.com/psu872522/OOP-JAVA-Homework/blob/main/week1/READNAME.jpg)
+![](READNAME.jpg)
