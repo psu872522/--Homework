@@ -21,7 +21,7 @@ public class Homework1{
 
 ### Homework1
 
-'''java
+```java
 
 public class Homework1 {
 	
@@ -67,12 +67,13 @@ public class Homework1 {
         }
     }
 }
-'''
+```
 ### Homework1결과화면 
 ![](../images/hw1.png)
 
 ### Homework2
-'''java
+```java
+
 package homework;
 
 public class Homework2 {
@@ -92,13 +93,14 @@ public class Homework2 {
         System.out.println();
     }
 }
-'''
+
+```
 
 ### Homework2결과화면
 ![](../images/hw2.png)
 
 ### Homework3
-'''java
+```java
 package homework;
 
 public class Homework3 {
@@ -118,13 +120,13 @@ public class Homework3 {
         }
     }
 }
-'''
+```
 
 ### Homework3결과화면
 ![](../images/hw3.png)
 
 ### Homework4
-''' java
+``` java
 package homework;
 
 public class Homework4 {
@@ -137,13 +139,13 @@ public class Homework4 {
         }
     }
 }
-'''
+```
 
 ### Homework4결과화면
 ![](../images/hw4.png)
 
 ### Homework5
-'''java
+```java
 package homework;
 
 public class Homework5 {
@@ -173,13 +175,13 @@ public class Homework5 {
         System.out.println("실제 파이 값: " + Math.PI);
     }
 }
-'''
+```
 
 ### Homework5결과화면
 ![](../images/hw5.png)
 
 ### Homework6
-'''java
+```java
 package homework;
 
 public class Homework6 {
@@ -205,13 +207,13 @@ public class Homework6 {
         }
     }
 }
-'''
+```
 
 ### Homework6결과화면
 ![](../images/hw6.png)
 
 ### Homework7
-'''java
+```java
 package homework;
 
 public class Homework7 {
@@ -247,13 +249,13 @@ public class Homework7 {
         }
     }
 }
-'''
+```
 
 ### Homework7결과화면
 ![](../images/hw7.png)
 
 ### Homework8
-''' java
+``` java
 package homework;
 
 public class Homework8 {
@@ -280,7 +282,7 @@ public class Homework8 {
         }
     }
 }                        
-'''
+```
 
 # Homework8결과화면
 ![](../images/hw8.png)
