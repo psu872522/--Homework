@@ -22,7 +22,6 @@ public class Homework1{
 ### Homework1
 
 '''java
-package homework;
 
 public class Homework1 {
 	
