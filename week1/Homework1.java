@@ -44,3 +44,5 @@ public class Homework1 {
         }
     }
 }
+
+![](../images/hw1.png)
