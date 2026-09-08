@@ -14,4 +14,4 @@ public class Homework1{
 }
 
 ```
-![](READNAME.jpg)
+![](../images/READNAME.jpg)
