@@ -17,3 +17,5 @@ public class Homework2 {
         System.out.println();
     }
 }
+
+![](../images/hw2.png)
