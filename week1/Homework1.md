@@ -43,6 +43,5 @@ public class Homework1 {
             System.out.println("");
         }
     }
-}
 
 ![](../images/hw1.png)
