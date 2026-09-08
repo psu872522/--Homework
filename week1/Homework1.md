@@ -1,3 +1,4 @@
+'''java 
 package homework;
 
 public class Homework1 {
@@ -43,5 +44,7 @@ public class Homework1 {
             System.out.println("");
         }
     }
+'''
 
+결과화면
 ![](../images/hw1.png)
